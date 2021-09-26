@@ -1,0 +1,377 @@
+{
+    "Frage00": {
+        "question": "Worin liegt der Hauptfokus\nvon AltspaceVR?",
+        "answers": [
+            "Lernveranstaltungen",
+            "Spiele",
+            "Debatten",
+            "Online-Events"
+        ],
+        "isCorrect": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    "Frage01": {
+        "question": "Fuer welche Plattformen ist\nAltspaceVR verfuegbar?",
+        "answers": [
+            "Windows",
+            "Android",
+            "Mac",
+            "keine"
+        ],
+        "isCorrect": [
+            true,
+            true,
+            true,
+            false
+        ]
+    },
+    "Frage02": {
+        "question": "Wann wurde AltspaceVR\ngegruendet?",
+        "answers": [
+            "2004",
+            "2007",
+            "2013",
+            "2017"
+        ],
+        "isCorrect": [
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    "Frage03": {
+        "question": "Wann ging AltspaceVR online?",
+        "answers": [
+            "2015",
+            "2016",
+            "2017",
+            "2018"
+        ],
+        "isCorrect": [
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    "Frage04": {
+        "question": "Wer hat Altspace gegruendet?",
+        "answers": [
+            "Palmer Luckey",
+            "Eric Romo",
+            "Diego Mueller",
+            "Marie Austen"
+        ],
+        "isCorrect": [
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    "Frage10": {
+        "question": "Welche Kommunikationsform bei\nSocialVR ist moeglich?",
+        "answers": [
+            "Kommunikation ueber\nTelepathie",
+            "Kommunikation ueber\nChat",
+            "Kommunikation ueber\nKoerpergesten",
+            "Kommunikation ueber\nSprache"
+        ],
+        "isCorrect": [
+            false,
+            true,
+            true,
+            true
+        ]
+    },
+    "Frage11": {
+        "question": "Welches Merkmal trifft auf\nSocialVR zu?",
+        "answers": [
+            "Offline",
+            "Eingeschraenkte\nBewegung in der\nvirtuellen Umgebung",
+            "Computergenerierte\n2D Umgebung",
+            "Kein vorgegebener\nAnwendungsfall"
+        ],
+        "isCorrect": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    "Frage12": {
+        "question": "Fuer welchen Bereich hat die\nSocialVR-Umgebung Mozilla\nHubs die groesste Relevanz?",
+        "answers": [
+            "Mathematik",
+            "Kunst",
+            "Spiele",
+            "Jura"
+        ],
+        "isCorrect": [
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    "Frage13": {
+        "question": "In welchen Bereichen wird\nSocialVR genutzt?",
+        "answers": [
+            "Meetings",
+            "Kulturveranstaltungen",
+            "Bildung",
+            "Messen &\nAusstellungen"
+        ],
+        "isCorrect": [
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    "Frage14": {
+        "question": "Welche Richtung schlaegt\nSocialVR ein?",
+        "answers": [
+            "Metaverse-Vision",
+            "Die Entwicklung\ngilt als\nabgeschlossen",
+            "Zurueckfuehrung auf\n2D",
+            "Virtualisierung\naller sozialer\nKontakte"
+        ],
+        "isCorrect": [
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    "Frage20": {
+        "question": "Was gehoert zu den auditive\nSysteme?",
+        "answers": [
+            "Speaker",
+            "Displays",
+            "Motion Platform",
+            "Force Feedback"
+        ],
+        "isCorrect": [
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    "Frage21": {
+        "question": "Welche sind die Handlungs-\nund Forschungsfelder der\nMediendidaktik?",
+        "answers": [
+            "Hochschullehre",
+            "Schulunterricht",
+            "Erwachsenen- und\nWeiterbildung",
+            "Keine der genannten\nFelder"
+        ],
+        "isCorrect": [
+            true,
+            true,
+            true,
+            false
+        ]
+    },
+    "Frage22": {
+        "question": "Was folgt auf das 'Tal der\nEnttaeuschung' im Hype-\nZyklus?",
+        "answers": [
+            "Pfad der Erleuchtung",
+            "Weg der Freude",
+            "Strasse des Wissens",
+            "Richtung des Gluecks"
+        ],
+        "isCorrect": [
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    "Frage23": {
+        "question": "Womit beschaeftigt sich\nMediendidaktik?",
+        "answers": [
+            "Entwicklung\ntechnischer Medien\nfuer Lehr- und\nLernsituationen",
+            "Vereinfachung\ntechnischer Medien\nfuer Lehr- und\nLernsituationen",
+            "Gestaltung\ntechnischer Medien\nfuer Lehr- und\nLernsituationen",
+            "Verwendung\ntechnischer Medien\nfuer Lehr- und\nLernsituationen"
+        ],
+        "isCorrect": [
+            false,
+            false,
+            true,
+            true
+        ]
+    },
+    "Frage24": {
+        "question": "Durch wen entstand eine\nsystematisch theoretisch\nfundierte Mediendidaktik?",
+        "answers": [
+            "Paul Heimann",
+            "Klaus Birkelbach",
+            "Johannes Zieger",
+            "Lois Malcolm"
+        ],
+        "isCorrect": [
+            true,
+            false,
+            false,
+            false
+        ]
+    },
+    "Frage30": {
+        "question": "Was fuer Vorteile hat\nsoziales Lernen?",
+        "answers": [
+            "Motion Sickness",
+            "bestimmte Lehrziele\nnur ueber soziale\nSettings erreichbar",
+            "kognitive\nUeberlastung",
+            "Keine der genannten\nAspekte"
+        ],
+        "isCorrect": [
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    "Frage31": {
+        "question": "Wann findet soziales Lernen\nstatt?",
+        "answers": [
+            "In der Freizeit",
+            "In SocialVR-Welten",
+            "Waehrend der\nSchulzeit",
+            "Mit der Familie"
+        ],
+        "isCorrect": [
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    "Frage32": {
+        "question": "Welche Online-Lernszenarien\nkoennten in VR eine Rolle\nspielen?",
+        "answers": [
+            "Tandemlernen",
+            "Online-Teaching",
+            "Virtuelles\nKlassenzimmer",
+            "Keine der genannten\nSzenarien"
+        ],
+        "isCorrect": [
+            true,
+            true,
+            true,
+            false
+        ]
+    },
+    "Frage33": {
+        "question": "Was foerdert soziale Praesenz?",
+        "answers": [
+            "Aufwaendige\ngrafische Texturen",
+            "Anwesenheit von\nanderen Avataren",
+            "Faehigkeit zur\nTeleportation",
+            "Gemeinsame\nMinispiele"
+        ],
+        "isCorrect": [
+            false,
+            true,
+            false,
+            true
+        ]
+    },
+    "Frage34": {
+        "question": "Welcher Aspekt zaehlt nicht\nzu den Lerneffekten von\nSocialVR?",
+        "answers": [
+            "Kognitiv",
+            "Physisch",
+            "Affektiv",
+            "Emotional"
+        ],
+        "isCorrect": [
+            false,
+            true,
+            false,
+            true
+        ]
+    },
+    "Frage40": {
+        "question": "Welche Welten gibt es schon\nin AltSpaceVR?",
+        "answers": [
+            "Mars-Welt",
+            "Sonnensystem",
+            "Galerien",
+            "Konferenzraeume"
+        ],
+        "isCorrect": [
+            true,
+            true,
+            true,
+            true
+        ]
+    },
+    "Frage41": {
+        "question": "Wie viele\nSocialVR-Plattformen gibt es\nungefaehr?",
+        "answers": [
+            "genau 1 (nur\nAltspaceVR)",
+            "2 bis 5",
+            "10 bis 20",
+            "ueber 20"
+        ],
+        "isCorrect": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    "Frage42": {
+        "question": "In welchem Jahr entstand der\nerste Entwurf eines\nVR-Systems?",
+        "answers": [
+            "1856",
+            "1956",
+            "1996",
+            "2016"
+        ],
+        "isCorrect": [
+            false,
+            true,
+            false,
+            false
+        ]
+    },
+    "Frage43": {
+        "question": "Wieviel Prozent der Deutschen\nkennen Virtual Reality?",
+        "answers": [
+            "23%",
+            "50%",
+            "76%",
+            "90%"
+        ],
+        "isCorrect": [
+            false,
+            false,
+            false,
+            true
+        ]
+    },
+    "Frage44": {
+        "question": "Wie viel Umsatz wurde 2021\nmit Virtual Reality Inhalten\nin Deutschland gemacht?",
+        "answers": [
+            "10 Mio.",
+            "100 Mio.",
+            "400 Mio.",
+            "750 Mio."
+        ],
+        "isCorrect": [
+            false,
+            true,
+            false,
+            false
+        ]
+    }
+}
